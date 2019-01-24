@@ -6,7 +6,7 @@
 * La aplicación consiste en una pantalla inicial en la que se pide un nombre y una contraseña, los cuales serán guardados en la base de datos y posteriormente mostrados en otra ventana. 
 * Hecho con Netbeans 8.2. 
 * Version 1.0
-* [holandesfrito](https://github.com/laurodr/)
+* [laurodr](https://github.com/laurodr/)
 
 ### Cómo ejecutar la aplicación ###
 
